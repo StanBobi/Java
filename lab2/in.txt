@@ -1,0 +1,6 @@
+Zahãr;1.5;50
+Paine;5;40
+Lapte;4;25
+Carne;20;20
+Apa;2.3;100
+Mere;3;50
